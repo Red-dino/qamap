@@ -8,4 +8,6 @@ TODO:
 - Make the screen scrollable.
 - Expand boxes with a lot of text.
 
+I did the original work for this project in April 2023.
+
 Kalam font license here: https://fonts.google.com/specimen/Kalam/license
